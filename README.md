@@ -11,11 +11,13 @@ An existing Social Media company has approached you to create a brand new front 
 
 ## API
 
-The API you are using for this project can be found under Social EndPoints in the [Noroff API documentation](https://noroff-api-docs.netlify.app/).
+The API you are using for this project can be found under Social EndPoints in the [Noroff API documentation](https://docs.noroff.dev/docs/v2).
 
 ### Resources
 
-[API Guide](https://noroff-api-docs.netlify.app/social-endpoints/authentication)
+[API Guide for Authentication](https://docs.noroff.dev/docs/v2/authentication)
+[API Guide For Social Endpoints](https://docs.noroff.dev/docs/v2/social/posts)
+
 [API Documentation](https://nf-api.onrender.com/docs)
 
 ### User Stories
